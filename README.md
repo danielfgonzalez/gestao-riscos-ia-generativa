@@ -1,4 +1,4 @@
-# Projeto Agendamento de Consultas — Gestão de Riscos e Comunicação com Apoio de IA Generativa
+# Projeto de Agendamento de Consultas — Gestão de Riscos e Comunicação Assistida por IA Generativa
 
 ## Descrição do projeto
 
